@@ -13,4 +13,10 @@
     .donate-btn{
         margin: 50px auto;
     }
+    .plan-container{
+        flex-direction: column;
+    }
+    .plan-container>div{
+    height: 250px;
+}
 }

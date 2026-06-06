@@ -81,10 +81,36 @@
 }
 .donate-btn{
     display: flex;
-    margin: 127px auto;
+    margin: 100px auto;
+}
+/********* Our Donate Plan ***********/
+.Donate-Plan{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 50px;
 }
 
-
-
-
-
+.Donate-Plan>h3{
+    margin-bottom: 10px;
+}
+.plan-container{
+    display: flex;
+    gap: 25px;
+}
+.plan-container>div{
+    width: 360px;
+    height: 352px;
+    padding: 20px;
+}
+.plan-content>div>h3{
+    margin-top: 30px;
+    margin-bottom: 16px;
+}
+.plan-content>div>p{
+    line-height: 1.50;
+}
+.plan-content{
+    display: flex;
+    align-items: center;
+}
