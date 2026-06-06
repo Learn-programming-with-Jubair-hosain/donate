@@ -3,5 +3,14 @@
         max-width: 95%;
         margin: auto;
     }
-    
+    .donate-content{
+        margin-top: 50px;
+    }
+    .amount{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .donate-btn{
+        margin: 50px auto;
+    }
 }
