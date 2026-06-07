@@ -19,4 +19,17 @@
     .plan-container>div{
     height: 250px;
 }
+.donation-container{
+    flex-direction: column;
+}
+.donation-img>img{
+    width: 100%;
+}
+.donation-container{
+    margin-top: 5px;
+    gap: 10px;
+}
+.survive{
+    margin-bottom: 50px;
+}
 }
